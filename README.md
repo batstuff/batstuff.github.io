@@ -8,7 +8,7 @@
 
 **Título:** Journey
 
-**Resumen:** Pequeña novela visual en la que acompañarás en su viaje a un pequeño personaje que irá teniendo conversaciones con diferentes personajes que compartirán contigo sus pensamientos e intrigas.
+**Resumen:** Pequeña novela visual en la que acompañarás en su viaje a un pequeño personaje que irá teniendo conversaciones con diferentes individuos que compartirán contigo sus pensamientos e intrigas.
 
 **Licencia: (creative Commons)**
 
