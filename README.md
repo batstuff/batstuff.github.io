@@ -16,7 +16,7 @@
 ### Memoria del proyecto:
 
 ### Nota importante: 
-Antes de abrir el proyecto por favor descargar las fuentes que se adjuntan en el repositorio: "determination.zip"
+Antes de abrir el proyecto por favor recomendable descargar e instalar las fuentes que se adjuntan en el repositorio como: "determination.zip"
 
 https://batstuff.github.io/
 
