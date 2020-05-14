@@ -1,4 +1,4 @@
-# cmi.io
+# cmi.io  https://batstuff.github.io/
 
 (Plantilla de Proyecto) 
 
@@ -15,8 +15,9 @@
 
 ### Memoria del proyecto:
 
+### Nota importante: 
+Antes de abrir el proyecto por favor descargar las fuentes que se adjuntan en el repositorio: "determination.zip"
 
-Hola
 
 
 
