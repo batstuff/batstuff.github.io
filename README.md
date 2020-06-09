@@ -124,7 +124,7 @@ Creo que quizás el programa no es lo que habitualmente se use en la industria d
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+**Artículos y blogs** 
 
 - Fox, T. (2015) Undertale official web: (https://undertale.com/about/)
 - Gallego (2015) Artículo del blog de videojuegos VidaExtra: (https://www.vidaextra.com/rpg/undertale-de-gamemaker-a-mejor-juego-de-todos-los-tiempos)
