@@ -74,7 +74,6 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - Juego/Novela [Undertale](https://undertale.com/about/) en la estética 8bit y los diálogos, así como el humor
 - Serie [The Midnight Gospel](https://www.netflix.com/es/title/80987903) de nuevo en la estética sobretodo de los niveles finales y gran inspiración para el guión
 
