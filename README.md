@@ -17,6 +17,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** : Pequeña novela visual en la que acompañarás en su viaje a un pequeño personaje que irá teniendo conversaciones con diferentes individuos que compartirán contigo sus pensamientos e intrigas.
 
 **Estilo/género:** Novela visual
+
 **Logotipo** :  
 
 ![logo]
