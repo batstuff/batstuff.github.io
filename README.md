@@ -40,26 +40,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram: @bat.stuff
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 ![menu](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/menu.jpg)
 El menú de inicio 
+
 ![stage1](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/stage1.jpg)
 Primer encuentro con un personaje
+
 ![stage2](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/stage2.jpg)
 Segundo diálogo
+
 ![stage3](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/stage3.jpg)
 Tercer escenario
+
 ![stage4](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/stage4.jpg)
 Cuarto escenario donde podemos mover libremente al personaje con el control de flechas
+
 ![stage5](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/stage5.jpg)
 Último diálogo donde dependiendo de las elecciones del jugador se desbloqueará un final u otro.
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 ### 2.2. Esquema de navegación 
