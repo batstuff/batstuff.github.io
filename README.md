@@ -104,9 +104,7 @@ Es como dice el propio título: un viaje, un paseo que aparentente es tranquilo 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego: es una novela y por tanto no hay complejidad de juego, por lo que para compensar añadí el stage 4 donde hay más interacción. La complejidad por así decirlo se encuentra un poco en las elecciones del final, donde se rompe la cuarta pared, permitiendo al jugador que interactúe con algunos elementos mientras va surgiendo el diálogo.  
+- Juego: es una novela y por tanto no hay complejidad de juego, por lo que para compensar añadí el stage 4 donde hay más interacción. La complejidad por así decirlo se encuentra un poco en las elecciones del final, donde se rompe la cuarta pared, permitiendo al jugador que interactúe con algunos elementos mientras va surgiendo el diálogo. Esta parte ha sido clave ya que quería adaptar la propuesta del ejercicio a lo que yo tenía en mente para mi proyecto, pasando por una serie de requisitos y empleando los recursos aprendidos en ella. 
 - Video: el vídeo lo he incluido dentro del botón de banda sonora en el menú principal.
 - Instrucciones y ayuda al usuario: al comienzo del primer escenario decidí poner un letrero que indicara la dinámica del juego que es pulsar para interactuar. También incluí algunas anotaciones como "pensamientos" del personaje al pasar el ratón por encima de diferentes elementos.
 - Menús y elementos de navegación (botones): El menú principal se asemeja al de cualquier juego constando de una galería que muestra más o menos la estética general, la banda sonora con las canciones usadas, un control de volumen y otro botón por si el usuario decide por el contrario que prefiere silenciar la música; por último otro botón que conduce a los créditos. La navegación a lo largo del juego es muy similar: se pulsa para interactuar y se van pasando los diálogos, habiendo dos opciones de respuesta diferentes.
