@@ -66,10 +66,7 @@ Cuarto escenario donde podemos mover libremente al personaje con el control de f
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
+[Visualiza el esquema aquí](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/Esquema%20navegaci%C3%B3n.pdf)
 
 
 
