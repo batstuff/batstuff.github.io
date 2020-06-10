@@ -138,7 +138,7 @@ Creo que quizás el programa no es lo que habitualmente se use en la industria d
 
 * Musica: [PixelBeats](https://www.youtube.com/channel/UChZE0-0R__Z5JtyImRGpDmw) en YouTube 
 * Imágenes:  Shutterstock
-* Tipografía: Determination.ttf
+* Tipografía: [Determination.ttf](https://github.com/batstuff/batstuff.github.io/blob/master/determination.zip?raw=true) *NOTA IMPORTANTE: descargar antes de jugar*
 
 **Herramientas utilizadas**
 
