@@ -30,9 +30,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Tamaño proyecto:** 34.8 MB 
 
-**Licencia** Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.
+**Licencia:** Esta obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.
 
-**Fecha** : 9/06/2020
+**Fecha** : 10/06/2020
 
 **Medios**:
 
