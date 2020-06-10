@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** :  
 
-![logo](https://github.com/batstuff/batstuff.github.io/blob/master/logo.png)
+![logo](https://github.com/batstuff/batstuff.github.io/blob/master/readme%20archivos/logo.png)
 
 
 
