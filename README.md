@@ -130,7 +130,7 @@ Creo que quizás el programa no es lo que habitualmente se use en la industria d
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  PixelBeats en YouTube (https://www.youtube.com/channel/UChZE0-0R__Z5JtyImRGpDmw)
+* Musica: [PixelBeats](https://www.youtube.com/channel/UChZE0-0R__Z5JtyImRGpDmw) en YouTube 
 * Imágenes:  Shutterstock
 * Tipografía: Determination.ttf
 
